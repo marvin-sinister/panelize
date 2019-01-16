@@ -6,29 +6,29 @@ panelize.py is a tool to panelize kicad PCBs. This version supports kicad format
 
 ## Index
 
-* [Usage](#Usage)
-* [Configfile](#Configfile)
-  * Layer names
-  * Commands
-    * new
-    * load
-    * save
-    * compat
-    * create-template
-    * source-area
-    * layer commands
-    * titleblock commands
-    * clone-nets
-    * swap-internal-layers
-    * Copy Commands
-    * draw-line
-    * draw-text
-    * set-layer
-    * set-line-thickness
-    * set-text-font
-  * Example Configfile
-    * Simple Example
-    * A Bigger Example
+* [Usage](#usage)
+* [Configfile](#configfile)
+  * [Layer names](layer-names)
+  * [CommandsCommands
+    * [new](#new)
+    * [load](#load)
+    * [save](#save)
+    * [compat](#compat)
+    * [create-template](#create-template)
+    * [source-area](#source-area)
+    * [layer commands](#layer commands)
+    * [titleblock commands](#titleblock-commands)
+    * [clone-nets](#clone-nets)
+    * [swap-internal-layers](#swap-internal-layers)
+    * [Copy Commands](#copy-commands)
+    * [draw-line](#draw-line)
+    * [draw-text](#draw-text)
+    * [set-layer](#set-layer)
+    * [set-line-thickness](#set-line-thickness)
+    * [set-text-font](#set-text-font)
+  * [Example Configfile](#example-configfile)
+    * [Simple Example](#simple-example)
+    * [A Bigger Example](#a-bigger-example)
 
 ## Usage
 
