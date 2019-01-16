@@ -16,7 +16,7 @@ panelize.py is a tool to panelize kicad PCBs. This version supports kicad format
     * [compat](#compat)
     * [create-template](#create-template)
     * [source-area](#source-area)
-    * [layer commands](#layer commands)
+    * [layer commands](#layer-commands)
     * [titleblock commands](#titleblock-commands)
     * [clone-nets](#clone-nets)
     * [swap-internal-layers](#swap-internal-layers)
